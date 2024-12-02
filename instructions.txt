@@ -1,0 +1,7 @@
+As you can see, I've created a basic nextjs application
+The application allows you to create multiple lists of groceries, manage the quantity of each item. You can check off items as you add them to your cart.
+There is a search bar where you can type in food. 
+you can see the nutritional content of each foodstuff depending of the grammage : vitamins, minerals, lipids, carbohydrates, etc.
+There is an authentication system in place to ensure that only authorized users can access the application.
+It works with next-auth, an EmailProvider with NestJs and a GoogleProvider.
+You can add other users to the application by email address.
